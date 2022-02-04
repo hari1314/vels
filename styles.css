@@ -1,0 +1,136 @@
+
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-style: italic;
+  font-size: 2em;
+}
+h1{
+  color: #8946A6;
+  font-size: 50PX;
+  line-height: 3;
+  margin: 50px auto 0 auto;
+  font-family: 'Lucida Handwriting'
+}
+h2{
+  color: #8946A6;
+  font-weight: normal;
+  font-family: 'Harlow Solid Italic'
+  font-size: 2.5rem;
+  padding-bottom: 10PX;
+}
+h3{
+  color: #11999E;
+  font-family: 'Harlow Solid Italic'
+}
+a{
+  background-color:
+}
+p{
+  line-height: 1.5;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+a{
+  color: #8946A6;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6
+}
+.top-birds{
+  position: absolute;
+  left: 450px;
+}
+.top-sun{
+  position: absolute;
+  right: 500px;
+  
+}
+.skill-rows{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1;
+}
+.read{
+  width: 30%;
+  float: left;
+  margin-right: 40px;
+}
+
+.skills2{
+
+  float: right;
+  width: 30%;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.cont-msg{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.Top-container{
+    background-color: #E0FCFF;
+    position: relative;
+    padding-top: 150px;
+}
+.Middle-container{
+  margin: 100PX 0;
+
+}
+.Bottom-container{
+  background-color: #66BFBF;
+  margin: 50PX 0 20PX;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 450px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 400px;
+  top: 50px;
+  padding: 50px;
+}
+.copy{
+  font-size: 75%;
+}
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Harlow Solid Italic'
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
